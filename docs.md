@@ -1,5 +1,5 @@
 Hi, today is wednesday
-Then it is thurdsday
+Tomorrow is thurdsday
 
 After it is friday
-this is it
+
