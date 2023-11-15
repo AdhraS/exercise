@@ -1,4 +1,4 @@
 Hi, today is wednesday
-Tomorrow is thurdsday
+Then it is thurdsday
 
 After it is friday
